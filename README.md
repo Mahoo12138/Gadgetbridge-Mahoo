@@ -1,4 +1,5 @@
-Gadgetbridge is now hosted on [codeberg.org](https://codeberg.org/Freeyourgadget/Gadgetbridge/).
+The is a Fork from [Freeyourgadget/Gadgetbridge: A free and cloudless replacement for your gadget vendors' closed source Android applications](https://codeberg.org/Freeyourgadget/Gadgetbridge/)
+I will add features for my own use, thanks to everyone who contributed to this project.
 
 <a href="https://codeberg.org/Freeyourgadget/Gadgetbridge/">
     <img alt="Get it on Codeberg" src="https://get-it-on.codeberg.org/get-it-on-blue-on-white.png" height="60">
